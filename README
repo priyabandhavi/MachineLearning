@@ -1,0 +1,2 @@
+Trained a LeToR dataset using Regularized Least-Squares and Stochastic
+Gradient Descent solution. Evaluated its performance through validation and testing.
